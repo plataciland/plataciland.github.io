@@ -6,7 +6,7 @@ description: > # this means to ignore newlines until "baseurl:"
   Tanto diverimento per grandi e piccoli
   
 baseurl: "" # the subpath of your site, e.g. /blog/
-url: "" # the base hostname & protocol for your site
+url: "http://www.plataciland.it" # the base hostname & protocol for your site
 
 # User setting
 owner: Plataciland
@@ -15,7 +15,7 @@ facebook_username: plataciland
 twitter_username: plataciland
 github_username: plataciland
 address:
-  - line: "viale dello Sparviero 90"
+  - line: "viale dello Sparviero"
   - line: "Plataci, CS 87070"
   # Feel free to add more lines here 
 telephone: (+39) 393 65 14 402
