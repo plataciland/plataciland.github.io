@@ -22,7 +22,7 @@ telephone: (+39) 393 65 14 402
 copyright: Angelo Basile
 
 # API settings
-google_api_key:AIzaSyA8H0jVz_6Hc273rqNYKQ6AAiBvQfVKmYQ
+google_api_key:
 
 # Build settings
 markdown: kramdown
